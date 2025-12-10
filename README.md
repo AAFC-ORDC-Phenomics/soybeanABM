@@ -1,9 +1,9 @@
 # soybeanABM
-raw data used to model soybean biomass and to relate these data with yield
+raw data used to in the manuscript 'Predicting Soybean Above-Ground Biomass in the Short-Season Region of Canada: Integrating Vegetative Cover and Canopy Height'
 
-Please read the following before using the data in this repository; 
+Please read and understand the following Government of Canada Open Government Licence before using the data in this repository
 
-Open Government Licence - Canada | Open Government - Government of Canada:https://open.canada.ca/en/open-government-licence-canada
+Open Government Licence - Canada | Open Government - Government of Canada: https://open.canada.ca/en/open-government-licence-canada
 
 Open Government Licence - Canada
 You are encouraged to use the information that is available under this licence with only a few conditions.
